@@ -1,0 +1,1 @@
+{"version":3,"sources":["base.less"],"names":[],"mappings":"AACA,UAEE,UAAA,KACA,mBAAA,WAAA,gBAAA,WAAA,WAAA,WACA,WAAA","file":"base.css","sourcesContent":["\r\nhtml{\r\n\tbody{\r\n\t\tfont-size: 12px;\r\n\t\tbox-sizing:border-box;\r\n\t\tbackground: url('../img/bg.jpg');\r\n\t}\r\n}\r\n"],"sourceRoot":"/source/"}
